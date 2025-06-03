@@ -1,0 +1,5 @@
+{
+  "name": "Tic TacToe AI",
+  "description": "A classic Tic Tac Toe game where you can play against another player or an AI opponent. Features engaging AI-powered commentary for game events using Gemini.",
+  "requestFramePermissions": []
+}
